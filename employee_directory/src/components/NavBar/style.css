@@ -1,0 +1,11 @@
+.buttons {
+  justify-content: center;
+}
+
+button {
+  margin: 10px;
+  padding: 10px;
+  color: white;
+  background-color: maroon;
+  font-family: "Henny Penny";
+}
